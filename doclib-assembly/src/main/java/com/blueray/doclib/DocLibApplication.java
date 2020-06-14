@@ -13,14 +13,14 @@ import org.springframework.security.config.annotation.method.configuration.Enabl
  * created on 2019/2/23
  **/
 @EnableCaching
-@MapperScan("com.honvay.**.mapper")
-@ComponentScan("com.honvay")
+@MapperScan("com.blueray.**.mapper")
+@ComponentScan("com.blueray")
 @SpringBootApplication
 @EnableGlobalMethodSecurity(prePostEnabled = true)
-public class Application {
+public class DocLibApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(DocLibApplication.class, args);
 	}
 
 }

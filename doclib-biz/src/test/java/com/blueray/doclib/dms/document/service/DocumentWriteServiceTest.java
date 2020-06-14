@@ -12,7 +12,6 @@ import com.blueray.doclib.dms.model.request.RemoveRequest;
 import com.blueray.doclib.dms.model.request.RenameRequest;
 import com.blueray.doclib.dms.model.request.RevertRequest;
 import com.blueray.doclib.dms.model.request.UnLockRequest;
-import com.honvay.hdms.dms.model.request.*;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
