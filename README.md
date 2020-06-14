@@ -22,7 +22,7 @@ Blueray文库协作平台企业控制台提供组织架构管理、人员管理�
 - 下载源码：https://gitee.com/honvay/hdms-community.git
 - 初始化数据库：sql/hdms-community.sql
 - 修改配置：hdms-assembly/src/main/resources/application.yml 配置JDBC连接
-- 启动应用：com.honvay.hdms.Application
+- 启动应用：Application
 - 浏览器访问：http://localhost:8090 账号 admin 密码 111111
 
 #### 系统截图
